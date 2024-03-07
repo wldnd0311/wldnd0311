@@ -2,7 +2,7 @@
 #### Full Stack Developer(wanted)
 haha
 
-Skills: PYTHON/ REACT / JS / HTML / CSS/JAVA
+
 
 - 🌱 I’m currently learning REACT 
 
