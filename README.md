@@ -2,7 +2,7 @@
 
 
 
-<div align=left><h1>🛠️Stack</h1></div>
+<div align=center><h1>🛠️Stack</h1></div>
 
 <div > 
   
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-<div align=left><h1>😊Infomation</h1></div>
+<div align=center><h1>😊Infomation</h1></div>
 <div>
 
 
