@@ -32,6 +32,8 @@
 <br />
 
 <div align=center><h1>📚Languege</h1>
+<br />
+<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldnd0311)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,10 +44,12 @@
 <br />
 <br />
 <div align = center><h1>🫰🏻BOJ</h1>
+<br />
+<br />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer)
 </div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer)
