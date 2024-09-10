@@ -41,8 +41,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 <div align = center><h1>🫰🏻BOJ</h1>
 <br />
 <br />
@@ -52,4 +51,5 @@
 
 
 </div>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer)
