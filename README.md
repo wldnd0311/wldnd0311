@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=안뇽 !&fontSize=20
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi!&fontSize=20
 
 
 <div align=center><h1>🛠️Stack</h1></div>
