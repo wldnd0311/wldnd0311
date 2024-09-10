@@ -1,6 +1,3 @@
-### 👋, Welcome
-
-
 
 <div align=center><h1>🛠️Stack</h1></div>
 
@@ -14,6 +11,9 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
