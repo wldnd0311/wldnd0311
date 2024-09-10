@@ -48,7 +48,7 @@
 <br />
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnd0311)](https://solved.ac/wldnd0311)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skwldnd)](https://solved.ac/skwldnd)
 
 
 </div>
