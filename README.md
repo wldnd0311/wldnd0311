@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi!&fontSize=20
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=&fontSize=20
 
 
 <div align=center><h1>🛠️Stack</h1></div>
@@ -38,4 +38,4 @@
 </div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer)
