@@ -43,7 +43,7 @@
 <br />
 <br />
 
-<div align = center><h1>🫰🏻BOJ</h1>
+<div align = center><h1>BOJ</h1>
 <br />
 <br />
 
